@@ -25,8 +25,9 @@ Aqui estão algumas das ferramentas que utilizo no meu dia a dia para construir 
 
 ---
 
-## 💻 Portfólio & GitHub Pages
+## ![Static Badge](https://img.shields.io/badge/:badgeContent) Portfólio & GitHub Pages
 Estes são os principais projetos e documentações que tenho hospedados no **GitHub Pages**:
+
 
 * 📑 **[Libgdx Game]([https://github.io](https://inftecnologydegree.github.io/libgdx-game)** – Documentação técnica detalhada sobre a arquitetura de uma infraestrutura multinvem.
 * 📊 **[Dashboard de Métricas](https://github.io)** – Página estática simulando painéis de monitoramento de incidentes.
