@@ -9,8 +9,6 @@ Sou um profissional focado em **DevOps**, apaixonado por automação, cultura á
 Abaixo você encontra minhas redes sociais e canais de comunicação. Sinta-se à vontade para me dar um "olá"!
 
 [![LinkedIn](https://shields.io)](linkedin.com/in/samuel-samuel-pereira-de-souza-662523397)
-[![Medium](https://shields.io)](https://medium.com)
-[![Dev.to](https://shields.io)](https://dev.to)
 [![E-mail](https://shields.io)](mailto:seu-email@provedor.com)
 
 ---
