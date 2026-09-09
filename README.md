@@ -24,11 +24,11 @@ Aqui estão algumas das ferramentas que utilizo no meu dia a dia para construir 
 * **Sistemas Operacionais & Scripting:** Linux (Ubuntu/CentOS) | Bash | Python | Go
 
 ---
-[![Static Badge](https://img.shields.io/badge/:badgeContent)](https://img.shields.io/badge/:badgeContent) Portfólio & GitHub Pages
+Portfólio & GitHub Pages
 Estes são os principais projetos e documentações que tenho hospedados no **GitHub Pages**:
 
 
-* 📑 **[Libgdx Game]([https://github.io](https://inftecnologydegree.github.io/libgdx-game)** – Documentação técnica detalhada sobre a arquitetura de uma infraestrutura multinvem.
+* 📑 **[Libgdx Game]([[https://github.io]](https://img.shields.io/badge/:badgeContent)(https://inftecnologydegree.github.io/libgdx-game)** – Documentação técnica detalhada sobre a arquitetura de uma infraestrutura multinvem.
 * 📊 **[Dashboard de Métricas](https://github.io)** – Página estática simulando painéis de monitoramento de incidentes.
 * 📘 **[Blog DevOps Pessoal](https://github.io)** – Meu blog técnico onde compartilho artigos sobre automação e artigos semanais.
 
