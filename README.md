@@ -8,7 +8,7 @@ https://www.linkedin.com/in/samuel-samuel-pereira-de-souza-662523397/
 ## 🌐 Conecte-se Comigo
 Abaixo você encontra minhas redes sociais e canais de comunicação. Sinta-se à vontade para me dar um "olá"!
 
-[![LinkedIn](https://shields.io)] ([https://linkedin.com] (https://www.linkedin.com/in/samuel-samuel-pereira-de-souza-662523397/))
+[![LinkedIn](https://shields.io) (https://www.linkedin.com/in/samuel-samuel-pereira-de-souza-662523397/)]
 
 
 
