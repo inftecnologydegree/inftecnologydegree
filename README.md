@@ -24,8 +24,7 @@ Aqui estão algumas das ferramentas que utilizo no meu dia a dia para construir 
 * **Sistemas Operacionais & Scripting:** Linux (Ubuntu/CentOS) | Bash | Python | Go
 
 ---
-
-## [![Static Badge](https://img.shields.io/badge/:badgeContent)](https://img.shields.io/badge/:badgeContent) Portfólio & GitHub Pages
+[![Static Badge](https://img.shields.io/badge/:badgeContent)](https://img.shields.io/badge/:badgeContent) Portfólio & GitHub Pages
 Estes são os principais projetos e documentações que tenho hospedados no **GitHub Pages**:
 
 
