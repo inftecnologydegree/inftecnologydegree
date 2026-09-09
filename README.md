@@ -1,16 +1,44 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**inftecnologydegree/inftecnologydegree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre Mim
+Sou um profissional focado em **DevOps**, apaixonado por automação, cultura ágil e otimização de infraestrutura em nuvem. Busco sempre aproximar os times de desenvolvimento e operações para entregar software com mais qualidade e rapidez.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Conecte-se Comigo
+Abaixo você encontra minhas redes sociais e canais de comunicação. Sinta-se à vontade para me dar um "olá"!
+
+[![LinkedIn](https://shields.io)](linkedin.com/in/samuel-samuel-pereira-de-souza-662523397)
+[![Medium](https://shields.io)](https://medium.com)
+[![Dev.to](https://shields.io)](https://dev.to)
+[![E-mail](https://shields.io)](mailto:seu-email@provedor.com)
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+Aqui estão algumas das ferramentas que utilizo no meu dia a dia para construir pipelines robustas e infraestruturas escaláveis:
+
+* **Nuvem:** AWS | Azure | Google Cloud
+* **Containers & Orquestração:** Docker | Kubernetes | Nomad
+* **CI/CD:** GitHub Actions | GitLab CI | Jenkins
+* **Infraestrutura como Código (IaC):** Terraform | Ansible | Pulumi
+* **Monitoramento & Observabilidade:** Prometheus | Grafana | ELK Stack
+* **Sistemas Operacionais & Scripting:** Linux (Ubuntu/CentOS) | Bash | Python | Go
+
+---
+
+## 💻 Portfólio & GitHub Pages
+Estes são os principais projetos e documentações que tenho hospedados no **GitHub Pages**:
+
+* 📑 **[Nome do Projeto 1](https://github.io)** – Documentação técnica detalhada sobre a arquitetura de uma infraestrutura multinvem.
+* 📊 **[Dashboard de Métricas](https://github.io)** – Página estática simulando painéis de monitoramento de incidentes.
+* 📘 **[Blog DevOps Pessoal](https://github.io)** – Meu blog técnico onde compartilho artigos sobre automação e artigos semanais.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img src="https://vercel.app" alt="Estatísticas do GitHub de seu-usuario" height="150px">
+  <img src="https://vercel.app" alt="Linguagens mais usadas por seu-usuario" height="150px">
+</p>
