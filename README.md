@@ -30,7 +30,7 @@ Aqui estão algumas das ferramentas que utilizo no meu dia a dia para construir 
 ## 💻 Portfólio & GitHub Pages
 Estes são os principais projetos e documentações que tenho hospedados no **GitHub Pages**:
 
-* 📑 **[Nome do Projeto 1](https://github.io)** – Documentação técnica detalhada sobre a arquitetura de uma infraestrutura multinvem.
+* 📑 **[Libgdx](https://github.io](https://inftecnologydegree.github.io/libgdx-game/)** – Documentação técnica detalhada sobre a arquitetura de uma infraestrutura multinvem.
 * 📊 **[Dashboard de Métricas](https://github.io)** – Página estática simulando painéis de monitoramento de incidentes.
 * 📘 **[Blog DevOps Pessoal](https://github.io)** – Meu blog técnico onde compartilho artigos sobre automação e artigos semanais.
 
