@@ -8,7 +8,7 @@ Sou um profissional focado em **DevOps**, apaixonado por automação, cultura á
 ## 🌐 Conecte-se Comigo
 Abaixo você encontra minhas redes sociais e canais de comunicação. Sinta-se à vontade para me dar um "olá"!
 
- [![LinkedIn]( https://img.shields.io/badge/github-repo-blue?logo=github)](https://linkedin.com](https://www.linkedin.com/in/samuel-samuel-pereira-de-souza-662523397/)
+ [![LinkedIn]( https://img.shields.io/badge/github-repo-blue?logo=github)(https://linkedin.com](https://www.linkedin.com/in/samuel-samuel-pereira-de-souza-662523397/)
 
 
 ----
