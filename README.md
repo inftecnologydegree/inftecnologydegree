@@ -12,7 +12,7 @@ Abaixo você encontra minhas redes sociais e canais de comunicação. Sinta-se �
 [![LinkedIn](https://shields.io)](https://linkedin.com)
 
 
----
+----
 
 ## 🛠️ Tecnologias e Ferramentas
 Aqui estão algumas das ferramentas que utilizo no meu dia a dia para construir pipelines robustas e infraestruturas escaláveis:
