@@ -8,7 +8,7 @@ Sou um profissional focado em **DevOps**, apaixonado por automação, cultura á
 ## 🌐 Conecte-se Comigo
 Abaixo você encontra minhas redes sociais e canais de comunicação. Sinta-se à vontade para me dar um "olá"!
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
+ https://img.shields.io/badge/github-repo-blue?logo=github(https://shields.io)](https://linkedin.com)
 
 
 ----
