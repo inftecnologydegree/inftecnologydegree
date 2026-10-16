@@ -18,13 +18,13 @@ Aqui estão algumas das ferramentas que utilizo no meu dia a dia para construir 
 
 * **Nuvem:** AWS | Azure | Google Cloud (Intenção de aprender)
 * **Containers & Orquestração:** Docker | Kubernetes 
-   Intenção de aprendizado:  Nomad
+ *  Intenção de aprendizado:  Nomad
 * **CI/CD:** GitHub Actions 
-   Intenção de aprendizado:  GitLab CI | Jenkins
+  * Intenção de aprendizado:  GitLab CI | Jenkins
 * **Infraestrutura como Código (IaC):** Terraform 
-     Intenção de aprendizado: | Ansible | Pulumi
+   *  Intenção de aprendizado: | Ansible | Pulumi
 * **Monitoramento & Observabilidade:** 
-    Intenção de aprendizado: Prometheus | Grafana | ELK Stack
+   * Intenção de aprendizado: Prometheus | Grafana | ELK Stack
 * **Sistemas Operacionais & Scripting:** Linux (Ubuntu/CentOS) | PHP | JAVA | JavaScript | C++ | C# | Python | Go
 
 ---
@@ -32,6 +32,7 @@ Aqui estão algumas das ferramentas que utilizo no meu dia a dia para construir 
 ## Portfólio & GitHub Pages
 Estes são os principais projetos e documentações que tenho hospedados no **GitHub Pages**:
 
+* 📑 **[Pagina de boas vindas GitHub]([[https://github.io]](https://github.com/inftecnologydegree/inftecnologydegree)** 
 
 * 📑 **[Projeto Full Stack Dockerizado]([[https://github.io]](https://inftecnologydegree.github.io/monorepo_docker/)** – Este é um projeto Full Stack com arquitetura moderna e totalmente distribuída, utilizando Containers Docker para garantir a consistência do ambiente de desenvolvimento à produção.
 
@@ -41,7 +42,8 @@ Estes são os principais projetos e documentações que tenho hospedados no **Gi
 
 * 📑 **[Libgdx Game]([[https://github.io]](https://inftecnologydegree.github.io/brothers-birdlgdx/)** – Documentação técnica detalhada sobre a arquitetura de uma infraestrutura multinvem.
 * 📊 **[Dashboard de Métricas](https://github.io)** – Página estática simulando painéis de monitoramento de incidentes.
-* 📘 **[Blog DevOps Pessoal](https://github.io)** – Meu blog técnico onde compartilho artigos sobre automação e artigos semanais.
+
+
 
 ---
 
