@@ -28,9 +28,12 @@ Portfólio & GitHub Pages
 Estes são os principais projetos e documentações que tenho hospedados no **GitHub Pages**:
 
 
+* 📑 **[Sovereign Bank — DevOps Project]([[https://github.io]](https://inftecnologydegree.github.io/microservicemongodb_frontend/)** – O projeto consiste em uma aplicação bancária para depósitos e saques que utiliza uma Arquitetura Desacoplada para garantir estabilidade, segurança e independência de infraestrutura.
+
 * 📑 **[Libgdx Game]([[https://github.io]](https://inftecnologydegree.github.io/brothers-birdlgdx/)** – Documentação técnica detalhada sobre a arquitetura de uma infraestrutura multinvem.
 * 📊 **[Dashboard de Métricas](https://github.io)** – Página estática simulando painéis de monitoramento de incidentes.
 * 📘 **[Blog DevOps Pessoal](https://github.io)** – Meu blog técnico onde compartilho artigos sobre automação e artigos semanais.
+
 
 ---
 
