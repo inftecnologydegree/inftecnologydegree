@@ -18,13 +18,13 @@ Aqui estão algumas das ferramentas que utilizo no meu dia a dia para construir 
 
 * **Nuvem:** AWS | Azure | Google Cloud (Intenção de aprender)
 * **Containers & Orquestração:** Docker | Kubernetes 
- *  Intenção de aprendizado:  Nomad
+ **  Intenção de aprendizado:  Nomad
 * **CI/CD:** GitHub Actions 
-  * Intenção de aprendizado:  GitLab CI | Jenkins
+  ** Intenção de aprendizado:  GitLab CI | Jenkins
 * **Infraestrutura como Código (IaC):** Terraform 
-   *  Intenção de aprendizado: | Ansible | Pulumi
+   **  Intenção de aprendizado: | Ansible | Pulumi
 * **Monitoramento & Observabilidade:** 
-   * Intenção de aprendizado: Prometheus | Grafana | ELK Stack
+   ** Intenção de aprendizado: Prometheus | Grafana | ELK Stack
 * **Sistemas Operacionais & Scripting:** Linux (Ubuntu/CentOS) | PHP | JAVA | JavaScript | C++ | C# | Python | Go
 
 ---
