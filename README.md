@@ -28,6 +28,8 @@ Portfólio & GitHub Pages
 Estes são os principais projetos e documentações que tenho hospedados no **GitHub Pages**:
 
 
+* 📑 **[Projeto Full Stack Dockerizado]([[https://github.io]](https://inftecnologydegree.github.io/monorepo_docker/)** – Este é um projeto Full Stack com arquitetura moderna e totalmente distribuída, utilizando Containers Docker para garantir a consistência do ambiente de desenvolvimento à produção.
+
 * 📑 **[Sovereign Bank — DevOps Project]([[https://github.io]](https://inftecnologydegree.github.io/microservicemongodb_frontend/)** – O projeto consiste em uma aplicação bancária para depósitos e saques que utiliza uma Arquitetura Desacoplada para garantir estabilidade, segurança e independência de infraestrutura.
 
 * 📑 **[Libgdx Game]([[https://github.io]](https://inftecnologydegree.github.io/brothers-birdlgdx/)** – Documentação técnica detalhada sobre a arquitetura de uma infraestrutura multinvem.
